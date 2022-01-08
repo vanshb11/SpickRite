@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/SpickRite/static/css/main.256ff4cb.chunk.css",
+    "main.js": "/SpickRite/static/js/main.8d637e41.chunk.js",
+    "main.js.map": "/SpickRite/static/js/main.8d637e41.chunk.js.map",
+    "runtime-main.js": "/SpickRite/static/js/runtime-main.a9d026e8.js",
+    "runtime-main.js.map": "/SpickRite/static/js/runtime-main.a9d026e8.js.map",
+    "static/css/2.0a9ec390.chunk.css": "/SpickRite/static/css/2.0a9ec390.chunk.css",
+    "static/js/2.b5d67eeb.chunk.js": "/SpickRite/static/js/2.b5d67eeb.chunk.js",
+    "static/js/2.b5d67eeb.chunk.js.map": "/SpickRite/static/js/2.b5d67eeb.chunk.js.map",
+    "static/js/3.0c7958c3.chunk.js": "/SpickRite/static/js/3.0c7958c3.chunk.js",
+    "static/js/3.0c7958c3.chunk.js.map": "/SpickRite/static/js/3.0c7958c3.chunk.js.map",
+    "index.html": "/SpickRite/index.html",
+    "static/css/2.0a9ec390.chunk.css.map": "/SpickRite/static/css/2.0a9ec390.chunk.css.map",
+    "static/css/main.256ff4cb.chunk.css.map": "/SpickRite/static/css/main.256ff4cb.chunk.css.map",
+    "static/js/2.b5d67eeb.chunk.js.LICENSE.txt": "/SpickRite/static/js/2.b5d67eeb.chunk.js.LICENSE.txt",
+    "static/media/Ashirwad.0058fd0c.JPG": "/SpickRite/static/media/Ashirwad.0058fd0c.JPG",
+    "static/media/digitalprinting.b599544b.jpg": "/SpickRite/static/media/digitalprinting.b599544b.jpg",
+    "static/media/fulfilment.570ccb9a.jpg": "/SpickRite/static/media/fulfilment.570ccb9a.jpg",
+    "static/media/offset.23691322.jpg": "/SpickRite/static/media/offset.23691322.jpg",
+    "static/media/warehousing.305864f7.jpg": "/SpickRite/static/media/warehousing.305864f7.jpg",
+    "static/media/wideformat.7955401e.jpg": "/SpickRite/static/media/wideformat.7955401e.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a9d026e8.js",
+    "static/css/2.0a9ec390.chunk.css",
+    "static/js/2.b5d67eeb.chunk.js",
+    "static/css/main.256ff4cb.chunk.css",
+    "static/js/main.8d637e41.chunk.js"
+  ]
+}
