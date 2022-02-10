@@ -6,6 +6,9 @@ import Common from "./Common";
 const Home = () => {
   return (
     <>
+
+
+    
       <Common
         name="Grow your Business with"
         imgsrc={web}

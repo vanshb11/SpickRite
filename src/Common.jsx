@@ -5,6 +5,37 @@ import web from "../src/images/Ashirwad.JPG";
 const Common = (props) => {
   return (
     <div>
+      <div>
+        <div
+          id="carouselExampleSlidesOnly"
+          className="carousel slide"
+          data-ride="carousel"
+        >
+          <div classNameName="carousel-inner">
+            <div classNameName="carousel-item active">
+              <img
+                classNameName="d-block w-100"
+                src={props.imgsrc}
+                alt="First slide"
+              />
+            </div>
+            <div className="carousel-item">
+              <img
+                className="d-block w-100"
+                src={props.imgsrc}
+                alt="Second slide"
+              />
+            </div>
+            <div className="carousel-item">
+              <img
+                className="d-block w-100"
+                src={props.imgsrc}
+                alt="Third slide"
+              />
+            </div>
+          </div>
+        </div>
+      </div>
       <section id="header" className="d-flex align-items-center ">
         <div className="container-fluid ">
           <div className="row">

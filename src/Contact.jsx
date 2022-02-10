@@ -88,7 +88,11 @@ const Contact = () => {
                   onChange={InputEvent}
                 ></textarea>
               </div>
-              <button type="submit" class="btn btn-outline-primary">
+              <button
+                onClick={() => alert("vansh")}
+                type="submit"
+                class="btn btn-outline-primary"
+              >
                 Submit
               </button>
             </form>
